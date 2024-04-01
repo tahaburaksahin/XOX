@@ -1,2 +1,22 @@
-# XOX
-I've created a XOX (Tic Tac Toe) game in Java. It's a simple and fun game that can be played between two players.
+
+XOX (Tic Tac Toe) Game in Java
+This is a simple XOX (Tic Tac Toe) game implemented in Java. The game allows two players to take turns marking spaces on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
+
+Features
+Two-player mode: Play against a friend locally.
+Simple and intuitive user interface.
+Clear indication of game status and winner announcement.
+
+How to Play
+Clone the repository to your local machine.
+
+Compile and run the Java files.
+Follow the on-screen instructions to take turns marking spaces on the grid.
+The first player to get three of their marks in a row wins the game.
+
+Technologies Used
+Java programming language
+
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details
