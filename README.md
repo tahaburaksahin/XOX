@@ -1,4 +1,8 @@
 
+![bRCKk3](https://github.com/tahaburaksahin/XOX/assets/99183230/1fd5183b-e4d8-4a03-972f-65d4a1e788ef)
+![2VkABK](https://github.com/tahaburaksahin/XOX/assets/99183230/0bc8e58f-2519-4821-91cb-0923623d5f44)
+![WpfeEQ](https://github.com/tahaburaksahin/XOX/assets/99183230/8618bc54-6ce4-44f4-8e10-25c1563ed8ac)
+
 XOX (Tic Tac Toe) Game in Java
 This is a simple XOX (Tic Tac Toe) game implemented in Java. The game allows two players to take turns marking spaces on a 3x3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 
